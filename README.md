@@ -1,7 +1,7 @@
 # Nvidia-DCF-Comps
 Built during an AmplifyME x CFA Institute Investment Banking Career Bootcamp in a timed challenge. Features a DCF analysis with a sensitivity table, a comps analysis, a table showcasing ratios and key metrics, and a discussion regarding the value of the company. Historical values, assumptions, and formatting were all provided. Results and analysis should be considered within the context of the simulation. 
 
-The excel file can be downloaded by selecting "view raw" at this link: https://github.com/TylerSpencerVA/Nvidia-DCF-Comps/blob/main/TS_AmplifyME__CFAInstitute_3_26_DCF_Comps_Analysis.xlsx
+(Screenshots and excel file may be published later. Awaiting permission to make sure no terms of service are violated.)
 
 ## Overview
 This project is an equity valuation of NVIDIA (NVDA) built within a structured simulation environment. Historical financials, projected assumptions, and the income statement/balance sheet/cash flow statement framework were provided by the CFA Institute and AmplifyME. I was responsible for building the DCF model, trading comps analysis, financial ratios, sensitivity table, and the final valuation discussion.
@@ -11,8 +11,6 @@ This project is an equity valuation of NVIDIA (NVDA) built within a structured s
 **WACC Calculation** — Cost of equity via CAPM (risk-free rate, equity beta, equity risk premium), weighted average cost of debt from Nvidia's bond schedule, and capital structure weighting to arrive at a ~10.8% WACC
 
 **Discounted Cash Flow** — 5-year projection of unlevered free cash flows (2027–2031), discount factors, NPV of projected FCFs, and terminal value using the perpetuity growth method (2% terminal growth rate)
-
-<img width="1482" height="552" alt="DCF" src="https://github.com/user-attachments/assets/6d666c2f-0bee-4605-8926-266fe0816c00" />
 
 **Comparable Company Analysis** — Enterprise value multiples for Nvidia and high/mean/median/low summary statistics to compare peer groups.
 
