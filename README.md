@@ -42,19 +42,6 @@ Valuation weighting: DCF and EV/EBITDA better capture the actual economics of th
 
 Comp set: I would consider a different peer group for better comparability. For example TSMC is a foundry and Nvidia supplier, not a true comparable. A tighter peer set focused on high-performance data center exposure (AMD, Broadcom, Marvell) would improve the analysis.
 
-## Model Structure
-
-The model lives in a single Excel workbook with the following layout on the main worksheet:
-
-Rows 9–42 — Income statement and drivers (historical + projected)
-Rows 49–87 — Balance sheet and drivers
-Rows 94–134 — Cash flow statement and drivers
-Rows 136–157 — WACC calculation
-Rows 161–191 — DCF, terminal value, equity bridge, and sensitivity table
-Rows 196–225 — Trading comps and implied enterprise values
-Rows 232–255 — Financial ratios and key metrics
-Rows 258–275 — Valuation conclusion and discussion
-
 ## Tools & Sources
 
 Microsoft Excel
